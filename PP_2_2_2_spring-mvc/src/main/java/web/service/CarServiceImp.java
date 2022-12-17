@@ -29,13 +29,3 @@ public class CarServiceImp implements CarService {
 
 }
 
-        /*
-        if (count == 2) {
-            List<Car> cloneCar = new ArrayList<>(2);
-            for (int i = 0; i < 2; i++) {
-                cloneCar.clone();
-
-            }
-        }
-
-         */
